@@ -1,8 +1,9 @@
 django
 djangorestframework
-psycopg2
 django-cors-headers
-django-secure
-django-sslserver
-pg
+psycopg2
+dj-database-url
+#django-secure
+#django-sslserver
+#pg
 
