@@ -6,4 +6,5 @@ build:
   docker:
     api: ./Dockerfile
 run:
-  api: python management.py runserver
+  #api: python management.py runserver
+  api: gunicorn wool.wsgi -b 0.0.0.0:8000
