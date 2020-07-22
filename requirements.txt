@@ -3,7 +3,7 @@ djangorestframework
 django-cors-headers
 psycopg2-binary
 dj-database-url
-django_heroku
+django-heroku
 #django-secure
 #django-sslserver
 #pg
