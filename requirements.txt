@@ -1,9 +1,10 @@
 django
+gunicorn
 djangorestframework
 django-cors-headers
-psycopg2-binary
-dj-database-url
 django-heroku
+#psycopg2-binary
+#dj-database-url
 #django-secure
 #django-sslserver
 #pg
